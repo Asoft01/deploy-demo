@@ -1,0 +1,10 @@
+node_modules/.bin/ngc
+ng serve --prod
+or 
+ng serve --environment=prod
+ng serve --environment=test
+ng build --environment=test
+
+ng lint --fix
+
+You can install TSLint extension
