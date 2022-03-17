@@ -8,3 +8,6 @@ ng build --environment=test
 ng lint --fix
 
 You can install TSLint extension
+ng build --prod --base-href="https://lekhad.github.io/hello-angular/"
+angular-cli-ghpages 
+ngh
