@@ -11,3 +11,7 @@ You can install TSLint extension
 ng build --prod --base-href="https://lekhad.github.io/hello-angular/"
 angular-cli-ghpages 
 ngh
+
+heroku login
+heroku create
+heroku open
